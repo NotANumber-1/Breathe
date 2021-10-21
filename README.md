@@ -1,2 +1,3 @@
-# Breathe
-파이썬으로 만든 안정제
+# Breathe by codingPro01
+
+안정적 호흡을 도와주는 프로그램
